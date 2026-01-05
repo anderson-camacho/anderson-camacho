@@ -1,50 +1,32 @@
-
-
-<h1 align="center">👋 Hola, soy Anderson Camacho</h1>
+<h1 align="center">👋 Hi, I'm Anderson Camacho</h1>
 
 <p align="center">
-Ingeniero Informático · Backend · Seguridad · Sistemas Distribuidos
+Computer Engineer · Backend · Security · Distributed Systems
 </p>
 
 ---
 
-Soy ingeniero informático con enfoque en **backend, seguridad y diseño de sistemas**.  
-Me interesa construir soluciones **claras, mantenibles y bien documentadas**, priorizando el pensamiento sistémico y las buenas prácticas por encima de la complejidad innecesaria.
+I am a computer engineer focused on **backend development, security, and system design**.  
+I care about building **clear, maintainable, and well-documented solutions**, prioritizing systemic thinking and solid practices over unnecessary complexity.
 
-Actualmente trabajo en:
-- 🔐 Seguridad aplicada al desarrollo
-- ⚙️ Backend y arquitecturas distribuidas
-- 🧠 Documentación técnica y estructuración de conocimiento
-- 📚 Docencia y formación en pensamiento lógico y sistémico
+I am currently working on:
+- 🔐 Security applied to software development
+- ⚙️ Backend and distributed architectures
+- 🧠 Technical documentation and knowledge structuring
+- 📚 Teaching and training in logical and systemic thinking
 
-Creo firmemente que:
-> Un sistema bien pensado se entiende antes de ejecutarse.
+I strongly believe that:
+> A well-designed system should be understood before it is executed.
 
 ---
 
-### 🧰 Tecnologías (en evolución)
+### 🧰 Technologies (evolving)
 - Backend: Java, Scala
-- Arquitectura: Microservicios, APIs
-- Seguridad: diseño seguro, control de accesos
-- Bases de datos y sistemas distribuidos
+- Architecture: Microservices, APIs
+- Security: secure design, access control
+- Databases and distributed systems
 
 ---
 
-📌 Este perfil está en construcción continua.  
-La documentación y los proyectos se irán publicando progresivamente.
-
-
-<!--
-**anderson-camacho/anderson-camacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 This profile is a work in progress.  
+Documentation and projects will be published progressively.
