@@ -51,7 +51,7 @@ I enjoy working on systems that:
 ![Databases](https://img.shields.io/badge/Databases-336791?style=for-the-badge)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-512DA8?style=for-the-badge)
 
----
+<!---
 
 ## 📊 GitHub Stats (live)
 
@@ -77,7 +77,7 @@ will be published progressively.
 - 💼 LinkedIn: *(add when ready)*
 - 📧 Email: *(optional)*
 
----
+--->
 
 <p align="center">
 ✨ Profile under continuous improvement ✨
